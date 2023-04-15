@@ -6,3 +6,4 @@
 #2.printing
 #3.commit the file
 #4. push
+# 5.pull
