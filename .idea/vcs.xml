@@ -2,8 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/learn-terraform" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/roboshop-shell" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/roboshop-terraform" vcs="Git" />
   </component>
 </project>
